@@ -1,0 +1,8 @@
+{
+  "name": "express-parameters",
+  "main": "server.js",
+  "dependencies": {
+    "express": "~4.10.2",
+    "body-parser": "~1.9.2"
+  }
+}
